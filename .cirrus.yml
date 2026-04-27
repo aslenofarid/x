@@ -4,7 +4,7 @@ env:
     tokentl: "ENCRYPTED[f399614db101ff55e3fd74abfd30f1686c425d1855aa94105330fdc3dae9b729d2379ca0916a50ee79fff439427eb4d8]"
     idtl: "ENCRYPTED[63b0a23edb0341e865ef37c3d3c69bde6282b5fa76ce6277dee18456026dcb17034bd3acbc6b4723f66aacb7b8f3c054]"
     lunch: lunch lineage_surya-user
-    make: make bacon
+    make: mka bacon
 
 task:
   name: "Setting Up, Syncing, Building and Uploading..."
